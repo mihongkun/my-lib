@@ -1,0 +1,9 @@
+name: my-lib
+version: 0.1.0
+
+authors:
+  - Jackson Mi <1045262335@qq.com>
+
+crystal: 0.22.0
+
+license: MIT
